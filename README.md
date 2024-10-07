@@ -24,10 +24,19 @@ Data Visualization Tools: Matplotlib and Seaborn: These libraries are used for c
 Text Processing Tools: Regular Expressions (Regex): Regex is a powerful tool for pattern matching in text, which can be useful for identifying specific features in SMS messages. Text Blob: Text Blob simplifies text processing tasks, including sentiment analysis and part-of-speech tagging.
 Database Management (Optional): SQLite or MySQL: To store and manage large volumes of SMS data, we may require a database management system.
 Web Frameworks: To build a user interface for SMS spam detection system, web frameworks like Stream lit or Flask can be helpful.
+
 RESULTS
 
-output1: ![image](https://github.com/user-attachments/assets/156ab5a3-0fbb-4cb7-b2c1-ec43f31c72a5)
-Screenshot (20) output2: Screenshot (21)
+
+output1:
+![image](https://github.com/user-attachments/assets/8fd5b699-0a12-48a0-8881-a839b1113f1e)
+
+Screenshot (20) 
+
+output2:
+![image](https://github.com/user-attachments/assets/a4863eac-0d2b-4123-b1cc-c97bddd4be34)
+
+Screenshot (21)
 
 CONCLUSION
 
